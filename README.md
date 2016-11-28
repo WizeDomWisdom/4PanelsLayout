@@ -1,10 +1,11 @@
 # 4PanelsLayout
 
 This repos gives a sample layout of website, made of 4 panels made with dividers arranged as follow:
+(display this README.md in RAW format otherwise the line wrapping will mess up the layout)
 
-|-----------------------------------------------------------------------|
-| TOP divider where you can put an header or whatever you want to stick |
-| out at the top of your site                                                                                                 |
+|--------------------------------------------------------------------------------------------------|
+| TOP divider where you can put an header or whatever you want to stick out at the top of your site|
+|                                                                                                  |
 |--------------------------------------------------------------------------------------------------|
 
 |----------------------------------------------------------------------| |-------------------------|
