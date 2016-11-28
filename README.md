@@ -2,9 +2,9 @@
 
 This repos gives a sample layout of website, made of 4 panels made with dividers arranged as follow:
 
-|--------------------------------------------------------------------------------------------------|
-| TOP divider where you can put an header or whatever you want to stick out at the top of your site|
-|                                                                                                  |
+|-----------------------------------------------------------------------|
+| TOP divider where you can put an header or whatever you want to stick |
+| out at the top of your site                                                                                                 |
 |--------------------------------------------------------------------------------------------------|
 
 |----------------------------------------------------------------------| |-------------------------|
